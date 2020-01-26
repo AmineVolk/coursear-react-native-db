@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Uthappizza",
-      "image": "https://i.ibb.co/QCcLPz3/uthappizza.png",
+      "image": "https://i.ibb.co/X3SWvPf/pizza.jpg",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
@@ -13,7 +13,7 @@
     {
       "id": 1,
       "name": "Zucchipakoda",
-      "image": "https://i.ibb.co/hVFGsPX/zucchipakoda.pngg",
+      "image": "https://i.ibb.co/x5bKJ0T/crepes.jpg",
       "category": "appetizer",
       "label": "",
       "price": "1.99",
@@ -23,7 +23,7 @@
     {
       "id": 2,
       "name": "Vadonut",
-      "image": "https://i.ibb.co/mvDygmb/vadonut.png",
+      "image": "https://i.ibb.co/RvH7DjX/donuts.jpg",
       "category": "appetizer",
       "label": "New",
       "price": "1.99",
@@ -33,7 +33,7 @@
     {
       "id": 3,
       "name": "ElaiCheese Cake",
-      "image": "https://i.ibb.co/qWfTvBg/elaicheesecake.png",
+      "image": "https://i.ibb.co/phqkZVd/cheese.jpg",
       "category": "dessert",
       "label": "",
       "price": "2.99",
@@ -207,7 +207,7 @@
     {
       "id": 0,
       "name": "Weekend Grand Buffet",
-      "image": "https://i.ibb.co/WDzGnBM/buffet.png",
+      "image": "https://i.ibb.co/Gp9G2HM/buffet.jpg",
       "label": "New",
       "price": "19.99",
       "featured": true,
@@ -218,7 +218,7 @@
     {
       "id": 0,
       "name": "Peter Pan",
-      "image": "https://i.ibb.co/Dz2Sq8C/alberto.png",
+      "image": "https://i.ibb.co/MMpFwmh/user.jpg",
       "designation": "Chief Epicurious Officer",
       "abbr": "CEO",
       "featured": false,
@@ -227,7 +227,7 @@
     {
       "id": 1,
       "name": "Dhanasekaran Witherspoon",
-      "image": "https://i.ibb.co/Dz2Sq8C/alberto.png",
+      "image": "https://i.ibb.co/MMpFwmh/user.jpg",
       "designation": "Chief Food Officer",
       "abbr": "CFO",
       "featured": false,
@@ -236,7 +236,7 @@
     {
       "id": 2,
       "name": "Agumbe Tang",
-      "image": "https://i.ibb.co/Dz2Sq8C/alberto.png",
+      "image": "https://i.ibb.co/MMpFwmh/user.jpg",
       "designation": "Chief Taste Officer",
       "abbr": "CTO",
       "featured": false,
@@ -245,7 +245,7 @@
     {
       "id": 3,
       "name": "Alberto Somayya",
-      "image": "https://i.ibb.co/Dz2Sq8C/alberto.png",
+      "image": "https://i.ibb.co/MMpFwmh/user.jpg",
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": true,
